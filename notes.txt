@@ -1,0 +1,36 @@
+
+                AUTHENTICATION SYSYTEM
+vid1 - 
+vid2-
+vid3-
+vid4-
+vid5-
+vid6-
+vid-7 - registration validation
+vid 8  - reguster users
+vid 9 - login (remember me check box)
+vid10 - logout -- use alpine js for a dropdown menu
+                  for random image use site called lorem picsum 
+        note: x-on:click="open = !open" is same us @click="open = !open"
+vid11 - protecting urls, routes....using middleware
+
+..................................................................................
+
+
+ - CRUD
+vid12 - Model and Migration 
+vid13 - Resource controllers and routes
+vid14 - factories and seeders
+vid15-  eloquent collection        for date use diffForHumans() ..by visiting Carbon dates ...........shortening long description 
+vid16- pagination   .... 
+        styling the pagination link after adding it on blade file: navigate through these directory files . vendor >> laravel >>framework >> src >> Illuminate >> Pagination >> resources >> views >> right click on it and paste it inside tailwind.config.js
+        watch tutorial from minute 2.49
+vid17 - Create Resources  -- creating a post through a user ...very  interesting user_id captured so well
+vid18 - component prop
+
+
+vid19 - user dashboard posts
+vid20 - User Posts  view 
+
+jumped upto vid 27, vid 2b
+
